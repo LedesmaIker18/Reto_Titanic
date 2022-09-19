@@ -1,7 +1,7 @@
 # Reto_Titanic
 
 
-El documento final que contiene la solcuión al reto del Titanic se encuentra es el llamado "Reporte_Final_MachineLearningFromDisaster". De giaugl forma se encuentra la presentación realizada con el nommbre de "Presentación_Reto"
+El documento final que contiene la solución al reto del Titanic es el llamado "Reporte_Final_MachineLearningFromDisaster". De igual forma se encuentra la presentación realizada con el nommbre de "Presentación_Reto"
 
 Correciones:
 
